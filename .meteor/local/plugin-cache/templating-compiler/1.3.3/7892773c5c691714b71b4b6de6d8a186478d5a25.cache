@@ -1,0 +1,1 @@
+{"head":"<title>Taiwo-Do</title>","body":"","js":"\nTemplate.body.addContent((function() {\n  var view = this;\n  return HTML.Raw('<h1>Welcome to Taiwo-Do!</h1>\\n\\n  <div id=\"render-target\"></div>');\n}));\nMeteor.startup(Template.body.renderToDocument);\n","bodyAttrs":{}}
